@@ -1,4 +1,3 @@
-# TDevEArchive
 # 🗂️ TDevEArchive v26.1 Beta
 
 **برنامج أرشيف وإدارة ملفات احترافي** | نسخة تجريبية 
@@ -65,18 +64,16 @@ TDevEArchive هو أداة متكاملة لإدارة وتنظيم الملفا
 - نرحب بملاحظاتك واقتراحاتك لتطوير البرنامج
 - بعض الميزات قيد التطوير وستضاف في التحديثات القادمة
 
----
-## التحميل
 
-https://www.up-4ever.net/2rq1jws5zfd3
+
 ---
 ## 📞 التواصل والدعم
 
 للاستفسارات، الاقتراحات، أو الإبلاغ عن مشكلة:
 
-- **GitHub:** [tahadev0](https://github.com/TahaDev0)
-- **Telegram:** [@tahadev0](https://t.me/tahadev0)
-- **Facebook:** [@tahadev0](https://www.facebook.com/share/1Gpkrr28hv/)
+- **GitHub:** [GitHub](https://github.com/TahaDev0)
+- **Telegram:** [Telegram](https://t.me/tahadev0)
+- **Facebook:** [Facebook](https://www.facebook.com/share/1Gpkrr28hv/)
 ---
 
 
@@ -85,3 +82,22 @@ https://www.up-4ever.net/2rq1jws5zfd3
 
 
 ⭐ *إذا أعجبك البرنامج، لا تنسى مشاركته مع الآخرين!*
+
+
+
+
+---
+
+
+<div id="download-ar"></div>
+
+## 📥 التحميل المباشر
+
+<div align="center">
+
+### ⚡ إصدار تجريبي
+
+| الإصدار | الحجم | التحميل |
+|---------|-------|----------|
+| **TDevEArchive v26.1 Beta** | 110 MB | [![Download](https://img.shields.io/badge/Download-TDev--EArchive_v26.1_Beta-25D366?style=for-the-badge&logo=download)](https://www.up-4ever.net/2rq1jws5zfd3) |
+---
